@@ -10,32 +10,17 @@ You find this descriptive text in the `index.md` file, so you can _change_ it, o
 
 ## Latest Posts
 
-<div>
+Apr 16, 2021
+[Energy Limited](./post/post3.html).
+God, I'm tired. Orz
 
-  {{ content }}
+Mar 15, 2021
+[Demo 2](./post/demo2.html).
+Welcome, everybody <3
 
-  <h2>Latest Posts</h2>
-
-  <div>&nbsp;</div>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-
-        {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
-        </h2>
-
-        {{ post.excerpt | markdownify | truncatewords: 30 }}
-
-      </li>
-    {% endfor %}
-  </ul>
-
-</div>
+Feb 14, 2021
+[Test 1](./post/test1.html).
+Hello, World :P
 
 ### Code
 
