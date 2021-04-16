@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Post content styles"
+layout: default
+title: "Energy Limited"
 tagline: "This post demonstrates post content styles"
-categories: junk
+categories: post
 image: /thumbnail-mobile.png
-author: "Bart Simpson"
+author: "Sorrv"
 meta: "Springfield"
+description: Cool!
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
@@ -88,3 +89,5 @@ Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet b
 Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
 Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+
+[back](../../)
