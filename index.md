@@ -10,17 +10,19 @@ You find this descriptive text in the `index.md` file, so you can _change_ it, o
 
 ## Latest Posts
 
-Apr 16, 2021
-[Energy Limited](./post/post3.html).
-God, I'm tired. Orz
-
-Mar 15, 2021
-[Demo 2](./post/demo2.html).
-Welcome, everybody <3
-
-Feb 14, 2021
-[Test 1](./post/test1.html).
-Hello, World :P
+<dl>
+  <dd>Apr 16, 2021</dd>
+  <dt>[Energy Limited](./post/post3.md).</dt>
+  <dd>God, I'm tired. Orz</dd>
+  
+  <dd>Mar 15, 2021</dd>
+  <dt>[Bilibili Cheers!](./post/demo2.html).</dt>
+  <dd>Welcome, everybody <3</dd>
+  
+  <dd>Feb 14, 2021</dd>
+  <dt>[Test 1](./post/test1.md).</dt>
+  <dd>Hello, World :P</dd>
+</dl>
 
 ### Code
 
