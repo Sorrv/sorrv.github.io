@@ -6,7 +6,7 @@ Have a look at the Github page for more information.
 
 You find this descriptive text in the `index.md` file, so you can _change_ it, or ~~remove~~ it completely, according to your **needs**.
 
-
+* * *
 ## Latest Posts
 
   [Energy Limited](./post/post3.md)
