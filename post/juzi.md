@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beautiful verses
-description: Spiritual life ~
+description: Spiritual life
 ---
 
 # 句子
@@ -103,3 +103,6 @@ description: Spiritual life ~
 皑如山上雪，皎若云间月。愿得一心人，白头不相离。
 
 纤云弄巧，银汉迢迢暗度。佳期如梦。两情若是久长时，又岂在朝朝暮暮。
+
+
+[back](../../)
