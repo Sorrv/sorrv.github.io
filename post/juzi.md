@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Beautiful verses"
-description: "Spiritual life ~"
+title: Beautiful verses
+description: Spiritual life ~
 ---
 
 # 句子
