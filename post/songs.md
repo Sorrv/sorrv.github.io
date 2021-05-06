@@ -10,7 +10,7 @@ description: What songs I am listening?
 
 **My Likes**
 
-![Fleeting Time](https://raw.githubusercontent.com/Sorrv/sorrv.github.io/master/pic/faye.png)
+![Fleeting Time](https://github.com/Sorrv/sorrv.github.io/blob/master/pic/faye.png)
 
 #### 王菲
 |Name|Album|
@@ -23,7 +23,7 @@ description: What songs I am listening?
 
 #### 张靓颖
 |Name|Album|
-|:-:|:-|
+|:--------|:----|
 |来不及说爱你|《新玉观音》|
 |不念|《古剑奇谭2》|
 |故长安|《将夜》|
