@@ -9,6 +9,9 @@ You find this descriptive text in the `index.md` file, so you can _change_ it, o
 * * *
 ## Latest Posts
 
+  [Favourite Songs](./post/songs.md)
+  <dd>May 6, 2021</dd>
+  <dd>This time, I'm really tired.</dd>
   [Energy Limited](./post/post3.md)
   <dd>Apr 16, 2021</dd>
   <dd>God, I'm tired. Orz</dd>
