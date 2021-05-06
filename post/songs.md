@@ -13,13 +13,13 @@ description: What songs I am listening?
 ![Fleeting Time](https://github.com/Sorrv/sorrv.github.io/blob/master/pic/faye.png)
 
 #### 王菲
-|Name|Album|
-|:-:|:-|
-|红豆|唱游|
-|流年|王菲|
-|暧昧|Di Dar|
-|暗涌|玩具|
-|爱与痛的边缘|讨好自己|
+| Name | Album |
+| :-: | :-- |
+| 红豆 | 唱游 |
+| 流年 | 王菲 |
+| 暧昧 | Di Dar |
+| 暗涌 | 玩具 |
+| 爱与痛的边缘 | 讨好自己 |
 
 #### 张靓颖
 |Name|Album|
