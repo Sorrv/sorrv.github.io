@@ -18,6 +18,9 @@ You find this descriptive text in the `index.md` file, so you can _change_ it, o
   [  Bilibili Cheers!](./post/demo2.html)
   <dd>Mar 15, 2021</dd>
   <dd>Welcome, everybody <3</dd>
+  [Swift](./post/swift.md)
+  <dd>Mar 9, 2021</dd>
+  <dd>Swift Study Notes</dd>
   [Test 1](./post/test1.md)
   <dd>Feb 14, 2021</dd>
   <dd>Hello, World :P</dd>
