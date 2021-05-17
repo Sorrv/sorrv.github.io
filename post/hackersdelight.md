@@ -44,6 +44,26 @@ int main() {
   * 2.2 Combine addition and subtraction with logical operations
   * 2.3 Inequalities in logic and arithmetic expressions
 
+<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+        backgroundColor: '#fff',
+        innerHTML: 'Back to Top',
+        textColor: '#333'
+      })</script>
+<div id="back-to-top" class="">Back to Top</div>
+<style>
+        #back-to-top {
+          border: 1px solid #ccc;
+          border-radius: 0;
+          font-family: sans-serif;
+          font-size: 14px;
+          width: 100px;
+          text-align: center;
+          line-height: 30px;
+          height: 30px;
+        }
+      </style>
+
 # Chapter 1 Overview
 
 ## 1.1 Notation
