@@ -488,6 +488,6 @@ printElements(inputs:arrayString)
 
 ```
 
-(Last updated at 16:08 on May 21th UTC+8)
+(Last updated at 16:08 on May 21st UTC+8)
 
 [back](../../)
