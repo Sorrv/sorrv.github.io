@@ -9,6 +9,9 @@ You find this descriptive text in the `index.md` file, so you can _change_ it, o
 * * *
 ## Latest Posts
 
+  [计算机组成](./post/COnD.md)
+  <dd>May 21, 2021</dd>
+  <dd>To be added...</dd>
   [Hacker's Delight](./post/hackersdelight.md)
   <dd>May 12, 2021</dd>
   <dd>notes to be added...</dd>
