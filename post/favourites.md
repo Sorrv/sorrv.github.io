@@ -20,6 +20,8 @@ description: 一直吃灰的收藏夹
 | [陈强](https://www.zhihu.com/people/chen-qiang-91-95/)       | 老湿机                                      |
 | [苏妙喵](https://www.zhihu.com/people/fromprofessorcrab)     | 两性情感咨询师                              |
 | [MarKA](https://www.zhihu.com/people/marka/)                 | 骨灰级果粉                                  |
+| [大头帮主](https://www.zhihu.com/org/da-tou-bang-zhu/)       | 建筑设计、马拉松                              |
+| [MarKA](https://www.zhihu.com/people/marka/)                 | 骨灰级果粉                                  |
 | [莫非 Moffee](https://www.zhihu.com/people/zhang-mo-fei-5)   | 旅行摄影                                    |
 | [枫叶](https://www.zhihu.com/people/mai-nv-hai-de-xiao-huo-chai-35-19/) | 个人博客搭建教学                            |
 | [~~哈喽陈小姐~~](https://www.zhihu.com/people/tao-tao-74-25)    [微博](https://weibo.com/u/5159136353) | 文采斐然                                    |
@@ -85,7 +87,7 @@ description: 一直吃灰的收藏夹
 
 | 主播                                                         | 房间号                        |
 | ------------------------------------------------------------ | ----------------------------- |
-| ~~小小小酷哥~~-组织    [小小小酷哥的微博](https://weibo.com/u/3004815543) | ~~1995~~ ~~17534211~~ 3726915 |
+| ~~小小小酷哥~~-组织    [小小小酷哥的微博](https://weibo.com/u/3004815543) | ~~1995~~ ~~17534211~~ [3726915](https://www.huya.com/3726915) |
 
 ### 唱歌
 
@@ -110,7 +112,8 @@ description: 一直吃灰的收藏夹
 | [Lost](https://www.huya.com/836177)         | 836177 |
 | [与世无争傲寒](https://www.huya.com/143075) | 143075 |
 | [飞鱼](https://www.huya.com/136811)         | 136811 |
-| [研夕](https://www.huya.com/924313)         | 924313 |
+| [夕研](https://www.huya.com/924313)         | 924313 |
+| [斗鱼 凌凝](https://www.douyu.com/1849364)          | 1849364 |
 
 ### 电视台
 
