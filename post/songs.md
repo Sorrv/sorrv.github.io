@@ -27,6 +27,13 @@ description: What songs I am listening?
 | 暗涌 | 玩具 |
 | 爱与痛的边缘 | 讨好自己 |
 
+![Deceive](../pic/cheat.jpeg)
+
+<audio controls autoplay>
+  <source src="../audio/deceive - Diamond Zhang.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 #### 张靓颖
 
 | Name | Album |
