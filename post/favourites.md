@@ -21,7 +21,6 @@ description: 一直吃灰的收藏夹
 | [苏妙喵](https://www.zhihu.com/people/fromprofessorcrab)     | 两性情感咨询师                              |
 | [MarKA](https://www.zhihu.com/people/marka/)                 | 骨灰级果粉                                  |
 | [大头帮主](https://www.zhihu.com/org/da-tou-bang-zhu/)       | 建筑设计、马拉松                              |
-| [MarKA](https://www.zhihu.com/people/marka/)                 | 骨灰级果粉                                  |
 | [莫非 Moffee](https://www.zhihu.com/people/zhang-mo-fei-5)   | 旅行摄影                                    |
 | [枫叶](https://www.zhihu.com/people/mai-nv-hai-de-xiao-huo-chai-35-19/) | 个人博客搭建教学                            |
 | [~~哈喽陈小姐~~](https://www.zhihu.com/people/tao-tao-74-25)    [微博](https://weibo.com/u/5159136353) | 文采斐然                                    |
@@ -101,7 +100,7 @@ description: 一直吃灰的收藏夹
 | 主播                                      | 房间号 |
 | ----------------------------------------- | ------ |
 | [~~苏月婵~~](https://www.huya.com/415626) | 415626 |
-| [零00]()                                  | 51200  |
+| [零00](https://www.huya.com/51200)       | 51200  |
 
 
 
