@@ -487,7 +487,192 @@ printElements(inputs:arrayString)
 //FIXME: next
 
 ```
+*TypeCasting.swift*
+```swift
+//: Playground - noun: a place where people can play
 
-(Last updated at 16:08 on May 21st UTC+8)
+import Cocoa
+
+// 类型转换，类型检查 is as? as!
+class NewClass1 {
+    
+}
+class NewClass2:NewClass1 {
+    
+}
+class NewClass3:NewClass1 {
+    
+}
+var list = [NewClass1(),NewClass2(),NewClass3(),NewClass3()]
+var class1Count = 0, class2Count = 0, class3Count = 0
+for item in list {
+    if item is NewClass1 {
+        class1Count += 1
+    }
+    if item is NewClass2 {
+        class2Count += 1
+    }
+    if item is NewClass3 {
+        class3Count += 1
+    }
+}
+print("number of NewClass1 : \(class1Count)")
+print("number of NewClass2 : \(class2Count)")
+print("number of NewClass3 : \(class3Count)")
+
+// as
+class Animal {
+    
+}
+class Dog:Animal {
+    func dogSay() {
+        print("Dog says WangWangWang")
+    }
+}
+class Cat:Animal {
+    func catSay() {
+        print("Cat says MiaoMiao!")
+    }
+}
+let animal:Animal = Dog()
+if let dog = animal as? Dog {
+    dog.dogSay()
+}
+var animalArray = [Dog(),Cat(),Dog(),Cat()]
+for animal in animalArray {
+    if let dog = animal as? Dog {
+        dog.dogSay()
+    }
+    if let cat = animal as? Cat {
+        cat.catSay()
+    }
+}
+
+// AnyObject引用类型 Any范围广，可以是值类型、引用类型，还可以是函数
+//let xxx:[AnyObject] = [Cat(),Dog(),1,2,3,"abc"]
+let a:[AnyObject] = [Cat(),Dog()]
+let b:[Any] = [Cat(),Dog(),1,2,3.3,"GaoKao",[6,7],(name:"Jack",id:18)]
+
+// 强制类型转换 as!
+class Person {
+    var name:String
+    init(name:String) {
+        self.name = name
+    }
+}
+class Teacher:Person {
+    var schoolName:String
+    init(name:String,schoolName:String) {
+        self.schoolName = schoolName
+        super.init(name: name)
+    }
+}
+var person:Person = Teacher(name: "Jiang", schoolName: "师范附属小学")
+print(person.name)  // 只有name属性
+let teacher = person as! Teacher  // 确定可以转换情况下使用
+print(teacher.schoolName)
+
+// Any
+var things = [Any]()
+things.append(0.0)
+things.append(0)
+things.append(100)
+things.append("WWDC")
+things.append(Dog())
+things.append(Cat())
+// as
+for thing in things {
+    switch thing {
+    case 0.0 as Double:
+        print("0.0 是浮点数")
+    case let someInt as Int:
+        print("\(someInt)是个整型值")
+    case let someString as String:
+        print("\(someString)是个字符串")
+    case let cat as Cat:
+        cat.catSay()
+    case let dog as Dog:
+        dog.dogSay()
+    default:
+        print("Other 类型")
+    }
+}
+
+enum GoodType {
+    case wine
+    case cigarette
+}
+class Good {
+    var type:GoodType
+    init(type:GoodType) {
+        self.type = type
+    }
+}
+class Wine:Good {
+    var price:Double
+    var box:Int
+    var numPerBox:Int
+    init(price:Double,box:Int,numPerBox:Int) {
+        self.price = price
+        self.box = box
+        self.numPerBox = numPerBox
+        super.init(type: .wine)
+    }
+}
+class Cigarette:Good {
+    var price:Double
+    var carton:Int
+    let numPerCarton:Int = 10
+    init(price:Double,carton:Int) {
+        self.price = price
+        self.carton = carton
+        super.init(type: .cigarette)
+    }
+}
+let wineArray = [Wine](repeatElement(Wine(price:Double(arc4random()), box: Int(arc4random()), numPerBox:Int(arc4random())), count: 5))
+let cigaretteArray = [Cigarette](repeatElement(Cigarette(price:Double(arc4random()), carton:Int(arc4random())), count: 5))
+var goodArray:[[Any]] = [wineArray, cigaretteArray]
+var totalPrice=0.0
+for array in goodArray {
+    for good in array {
+        if good is Wine {
+            if let wine = good as? Wine {
+                totalPrice += wine.price*Double(wine.box*wine.numPerBox)
+            }
+        }
+        if good is Cigarette {
+            let cigarette = good as! Cigarette
+            totalPrice += cigarette.price*Double(cigarette.carton*cigarette.numPerCarton)
+        }
+    }
+}
+print(totalPrice)
+
+
+infix operator *+*
+func *+* <T:Good>(left:[T],right:[T]) -> Double {
+    totalPrice = 0.0
+    for item in left {
+        if let wine = item as? Wine {
+            totalPrice += wine.price*Double(wine.box*wine.numPerBox)
+        }
+        if let cigarette = item as? Cigarette {
+            totalPrice += cigarette.price*Double(cigarette.carton*cigarette.numPerCarton)
+        }
+    }
+    for item in right {
+        if let wine = item as? Wine {
+            totalPrice += wine.price*Double(wine.box*wine.numPerBox)
+        }
+        if let cigarette = item as? Cigarette {
+            totalPrice += cigarette.price*Double(cigarette.carton*cigarette.numPerCarton)
+        }
+    }
+    return totalPrice
+}
+print("Total Price : \(wineArray *+* cigaretteArray)")
+```
+
+(Last updated at 20:44 on June 8th UTC+8)
 
 [back](../../)
