@@ -43,7 +43,8 @@ description: 一直吃灰的收藏夹
 | ------------------------------------------------------------ | ------------------------------- | ----------------------------------------------------------- |
 | [如何评价苹果推出的 iPhone Xs](https://www.zhihu.com/question/292774534/answer/506620487) | 手机有什么好看的？              | [张烨佳Nina微博](https://weibo.com/u/1801509614)            |
 | [为啥arm架构比x86 x64省电？](https://www.zhihu.com/question/387240856/answer/1163489964) |                                | 计算机组成            |
-| [如何看待双黄连口服液一夜之间全网脱销？](https://www.zhihu.com/question/368903131/answer/993483040) | 人民ri报                        | 电影[《传染病》](https://movie.douban.com/subject/4301043/) |
+| [新冠肺炎病毒的mRNA疫苗安全吗？](https://www.zhihu.com/question/432315636/answer/1603343933)      | 非专业看了评论很混乱       |
+| [如何看待双黄连口服液一夜之间全网脱销？](https://www.zhihu.com/question/368903131/answer/993483040) | 人民ri报                 | 电影[《传染病》](https://movie.douban.com/subject/4301043/) |
 | [写代码用哪种字体看起来最舒适？](https://www.zhihu.com/question/32058777/answer/631445794)  |                              |                             |
 | [什么名能拯救梅这个姓？](https://www.zhihu.com/question/324943215/answer/712249388)       |       马冬梅什么梅                |                          |
 | [为什么吃过蒜后，嘴里的味道很久都不散？](https://www.zhihu.com/question/20531749/answer/1402561647) |                          | 老爸评测                     |
