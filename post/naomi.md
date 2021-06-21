@@ -45,6 +45,7 @@ Tanizaki Junichiro
         }
       </style>
 
+![Some Versions](../pic/ChijinNoAi.png)
 在学校图书馆只找到5版中译本。选取一些片段来对比各个版本的翻译。
 
 - [Chapter 1](#Chapter1)
