@@ -9,6 +9,9 @@ You find this descriptive text in the `index.md` file, so you can _change_ it, o
 * * *
 ## Latest Posts
 
+  [荒芜](./post/desolation.md)
+  <dd>Jul 22, 2021</dd>
+  <dd>花会枯萎</dd>
   [痴人之爱](./post/naomi.md)
   <dd>Jun 11, 2021</dd>
   <dd>Lolita</dd>
