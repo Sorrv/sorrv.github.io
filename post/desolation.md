@@ -1,5 +1,5 @@
 <audio controls autoplay>
-  <source src="https://github.com/Sorrv/sorrv.github.io/tree/master/audio/AutumnLeaves.mp3" type="audio/mpeg">
+  <source src="../audio/AutumnLeaves.mp3" type="audio/mp4">
 Your browser does not support the audio element.
 </audio>
 
