@@ -20,7 +20,7 @@ description: 一直吃灰的收藏夹
 | [陈强](https://www.zhihu.com/people/chen-qiang-91-95/)       | 老湿机                                      |
 | [苏妙喵](https://www.zhihu.com/people/fromprofessorcrab)     | 两性情感咨询师                              |
 | [MarKA](https://www.zhihu.com/people/marka/)                 | 骨灰级果粉                                  |
-| [大头帮主](https://www.zhihu.com/org/da-tou-bang-zhu/)       | 建筑设计、马拉松                              |
+| [大头帮主](https://www.zhihu.com/org/da-tou-bang-zhu/)       | 建筑设计                                   |
 | [Susanna Wang](https://www.zhihu.com/people/susanna-wang)    | 理财投资                                   |
 | [弗兰克扬](https://www.zhihu.com/people/fu-lan-ke-yang)    [终将谢幕](https://www.zhihu.com/people/anzhongguancha-59)    [豆瓣](https://www.douban.com/people/189656716/)        [微博](https://weibo.com/u/6178380985)     |   职业规划     |
 | [莫非 Moffee](https://www.zhihu.com/people/zhang-mo-fei-5)   | 旅行摄影                                    |
@@ -51,7 +51,7 @@ description: 一直吃灰的收藏夹
 | [为什么吃过蒜后，嘴里的味道很久都不散？](https://www.zhihu.com/question/20531749/answer/1402561647) |                          | 老爸评测                     |
 | [《王者荣耀》凤求凰和凤凰于飞活动抽奖全拿下要多少钱？](https://www.zhihu.com/question/434465290/answer/1883778645) | 现实应用所学知识    | 概率论与数理统计          |
 | [在星巴克拿出Surface Book和MacBook Pro哪个更有逼格？](https://www.zhihu.com/question/266545847/answer/310863463) |             |              |
-| [设置什么样的微信号，以后不会后悔？](https://www.zhihu.com/question/334863317/answer/751001018) | 不在乎天长地久，只在乎曾经拥有  |                                                             |
+| [设置什么样的微信号，以后不会后悔？](https://www.zhihu.com/question/334863317/answer/751001018) | 不在乎天长地久，只在乎曾经拥有  |                |
 | [有哪些非常冷门的冷知识？](https://www.zhihu.com/question/286733591/answer/932328023) | 你的精液里有可能全部是别人的DNA | 骨髓移植                 |
 | [为什么女孩子在校园穿丝袜不被待见？](https://www.zhihu.com/question/431140503/answer/1790559300) |  原味的lsp叶公好龙   |                     |
 | [中国人可以练成欧美的健美男人的肌肉吗？和人种有多大关系？](https://www.zhihu.com/question/63698495/answer/265896935)   | 媒体操纵审美观雄性激素    |                |
@@ -77,8 +77,8 @@ description: 一直吃灰的收藏夹
 <details>
   <summary>小姐姐</summary>
   <pre>
-    [涂涂子tutu](https://weibo.com/u/1860025965)
-
+    <a href="https://weibo.com/u/1860025965" target="_blank">涂涂子tutu</a><br />
+    <a href="https://weibo.com/u/6495997029" target="_blank">蔡婷婷哇_</a><br />
 
   </pre>
 </details>
@@ -102,12 +102,22 @@ description: 一直吃灰的收藏夹
 | [悉尼顾俊](https://space.bilibili.com/294081438)             | 壕       |
 | [Timelab](https://space.bilibili.com/384860254)       [YouTube](https://www.youtube.com/user/vomifeq) | 城市航拍 |
 
+### 数码
+
+| up   | post     |
+| :-:| ------------------ |
+| [HotGuys(爱搞机)](https://space.bilibili.com/17138783)   | 小剧场                                                       |
+| [林捂捂](https://space.bilibili.com/276928941)           | [不买iPad Pro省8k](https://www.bilibili.com/video/BV1DK411V7XT) |
+| [老师好我叫何同学](https://space.bilibili.com/163637592) | [脆弱的折叠屏](https://www.bilibili.com/video/BV1aJ411C7tb)  |
+
+
 ### Hi-Fi
 
 | up主         | post                                                    |
 | ------------ | ------------------------------------------------------- |
 | V12永远滴神  | [柏林之声](https://www.bilibili.com/video/BV1Di4y1t75s) |
 | titanformula | [人头录音](https://www.bilibili.com/video/BV1QW411k7Aq) |
+| 快過期的桔仔醬 | [2001 王菲同名專輯_流年](https://www.bilibili.com/video/BV1d54y1U7wc) |
 
 
 
@@ -125,6 +135,8 @@ description: 一直吃灰的收藏夹
 | name                                                       | id             |
 | ---------------------------------------------------------- | -------------- |
 | 一栗莎子    [Bilibili](https://space.bilibili.com/2871017) | jyoisa         |
+| 王力差点红.    [Bilibili](https://space.bilibili.com/699928307) | wamgli0662  |
+| 上官婉婷     [Bilibili](https://space.bilibili.com/1432058837) | laowang0662 |
 | 涛哥-逆天化妆术                                            | A13912329262   |
 | 小月美食记                                                 | meishi12345678 |
 | 慕容云磊                                                   | murong233      |
@@ -136,6 +148,7 @@ description: 一直吃灰的收藏夹
 | 主播                                                         | 房间号                        |
 | ------------------------------------------------------------ | ----------------------------- |
 | ~~小小小酷哥~~-组织    [小小小酷哥的微博](https://weibo.com/u/3004815543) | ~~1995~~ ~~17534211~~ [3726915](https://www.huya.com/3726915) |
+| [你就叫我小王吧](https://www.huya.com/177980)                  | 177980 |
 
 ### 唱歌
 
@@ -158,18 +171,23 @@ description: 一直吃灰的收藏夹
 | 主播                                        | 房间号 |
 | ------------------------------------------- | ------ |
 | [Lost](https://www.huya.com/836177)         | 836177 |
-| [与世无争傲寒](https://www.huya.com/143075) | 143075 |
+| [与世无争傲寒](https://www.huya.com/143075)   | 143075 |
 | [飞鱼](https://www.huya.com/136811)         | 136811 |
 | [夕研](https://www.huya.com/924313)         | 924313 |
-| [斗鱼 凌凝](https://www.douyu.com/1849364)          | 1849364 |
+| [南莫](https://www.huya.com/23916246)       | 23916246 |
+| [斗鱼 凌凝](https://www.douyu.com/1849364)   | 1849364 |
 
 ### 电视台
 
 | 主播                                                         | 房间号   |
 | ------------------------------------------------------------ | -------- |
 | [李子柒](https://www.huya.com/21969336)         [YouTube](https://www.youtube.com/channel/UCoC47do520os_4DBMEFGg4A)         [Bilibili](https://space.bilibili.com/19577966) | 21969336 |
+| [黑羽](https://www.huya.com/20985791)  | 20985791 |
 | [我是郭杰瑞](https://www.huya.com/21478190)                  | 21478190 |
 | [~~大胃王~~mini探店](https://www.huya.com/18958242)          | 18958242 |
+| [Amazing China 美丽中国](https://www.huya.com/20119169)      | 20119169  |
+| [冒险雷探长](https://www.huya.com/16042928)        [纪录片](https://www.bilibili.com/bangumi/play/ss25915/)        [Bilibili](https://space.bilibili.com/49494871) | 16042928  |
+| [Discovery 贝爷](https://www.huya.com/20969143)              | 209669143 |
 
 
 
