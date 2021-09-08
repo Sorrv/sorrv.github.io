@@ -280,7 +280,7 @@ var y:Double = 10.0
 print("\(y)km = \(y.km)m")
 
 extension Int{
-    func changeToChinessNum() -> String {
+    func changeToChineseNum() -> String {
         var ret:String=""
         var tmp=self
         repeat{
@@ -311,7 +311,7 @@ extension Int{
         return ret
     }
 }
-print("\(1234567890.changeToChinessNum())")
+print("\(1234567890.changeToChineseNum())")
 
 extension String{
     subscript(index:Int)->Character?{
@@ -673,6 +673,6 @@ func *+* <T:Good>(left:[T],right:[T]) -> Double {
 print("Total Price : \(wineArray *+* cigaretteArray)")
 ```
 
-(Last updated at 20:44 on June 8th UTC+8)
+(Last updated at 14:15 on 2021 Sept 8th UTC+8)
 
-[back](../../)
+[back to Home](../../)
