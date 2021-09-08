@@ -8,12 +8,12 @@ description: 一直吃灰的收藏夹
 
 ## 个人博客收录
 
-[考据癖|好奇心|冷知识](http://localhost-8080.com/2014/11/mathematica-wolframalpha-logo-origami/)    ❤️    [Matrix67](http://www.matrix67.com/blog/archives/6231)
-[Beyond the Void](https://byvoid.com/zht/)
-[阮一峰](http://www.ruanyifeng.com/home.html)
-[无辄的栈](https://www.imwzk.com/posts/2017-12-15-sobriety-is-a-tragedy/)
-[沈维燕的技术私房菜](https://www.yuque.com/shenweiyan/cookbook)
-[GatesNotes](https://www.gatesnotes.com/)
+[考据癖|好奇心|冷知识](http://localhost-8080.com/2014/11/mathematica-wolframalpha-logo-origami/)    ❤️    [Matrix67](http://www.matrix67.com/blog/archives/6231)<br />
+[Beyond the Void](https://byvoid.com/zht/)<br />
+[阮一峰](http://www.ruanyifeng.com/home.html)<br />
+[无辄的栈](https://www.imwzk.com/posts/2017-12-15-sobriety-is-a-tragedy/)<br />
+[沈维燕的技术私房菜](https://www.yuque.com/shenweiyan/cookbook)<br />
+[GatesNotes](https://www.gatesnotes.com/)<br />
 
 ## 知乎
 
