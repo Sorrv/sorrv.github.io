@@ -6,6 +6,15 @@ description: 一直吃灰的收藏夹
 
 # 宝藏？
 
+## 个人博客收录
+
+[考据癖|好奇心|冷知识](http://localhost-8080.com/2014/11/mathematica-wolframalpha-logo-origami/)    ❤️    [Matrix67](http://www.matrix67.com/blog/archives/6231)
+[Beyond the Void](https://byvoid.com/zht/)
+[阮一峰](http://www.ruanyifeng.com/home.html)
+[无辄的栈](https://www.imwzk.com/posts/2017-12-15-sobriety-is-a-tragedy/)
+[沈维燕的技术私房菜](https://www.yuque.com/shenweiyan/cookbook)
+[GatesNotes](https://www.gatesnotes.com/)
+
 ## 知乎
 
 ### 关注
@@ -77,9 +86,13 @@ description: 一直吃灰的收藏夹
 <details>
   <summary>小姐姐</summary>
   <pre>
+    <a href="https://weibo.com/p/1005052331498495" target="_blank">半藏森林</a><br />   https://weibo.com/recklesss
+    <a href="https://weibo.com/u/1969308311" target="_blank">Duebass</a><br />
+    <a href="https://weibo.com/u/2977062090" target="_blank">L一瓶紫薯牛奶</a><br />
     <a href="https://weibo.com/u/1860025965" target="_blank">涂涂子tutu</a><br />
     <a href="https://weibo.com/u/6495997029" target="_blank">蔡婷婷哇_</a><br />
-
+    <a href="https://weibo.com/u/5721471804" target="_blank">王格格啊啊</a><br />
+    <a href="https://weibo.com/u/1801509614" target="_blank">张烨佳Nina</a><br />
   </pre>
 </details>
 
@@ -191,4 +204,4 @@ description: 一直吃灰的收藏夹
 
 
 
-[back](../../)
+[back to Home](../../)
