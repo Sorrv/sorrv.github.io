@@ -86,7 +86,7 @@ description: 一直吃灰的收藏夹
 <details>
   <summary>小姐姐</summary>
   <pre>
-    <a href="https://weibo.com/p/1005052331498495" target="_blank">半藏森林</a><br />   https://weibo.com/recklesss
+    <a href="https://weibo.com/p/1005052331498495" target="_blank">半藏森林</a><br />   https://weibo.com/recklesss<br />
     <a href="https://weibo.com/u/1969308311" target="_blank">Duebass</a><br />
     <a href="https://weibo.com/u/2977062090" target="_blank">L一瓶紫薯牛奶</a><br />
     <a href="https://weibo.com/u/1860025965" target="_blank">涂涂子tutu</a><br />
@@ -119,7 +119,8 @@ description: 一直吃灰的收藏夹
 
 | up   | post     |
 | :-:| ------------------ |
-| [HotGuys(爱搞机)](https://space.bilibili.com/17138783)   | 小剧场                                                       |
+| [胜利文绉绉](https://space.bilibili.com/12300996)       | 深度拆解 |
+| [HotGuys(爱搞机)](https://space.bilibili.com/17138783)  | 小剧场 |
 | [林捂捂](https://space.bilibili.com/276928941)           | [不买iPad Pro省8k](https://www.bilibili.com/video/BV1DK411V7XT) |
 | [老师好我叫何同学](https://space.bilibili.com/163637592) | [脆弱的折叠屏](https://www.bilibili.com/video/BV1aJ411C7tb)  |
 
@@ -132,6 +133,13 @@ description: 一直吃灰的收藏夹
 | titanformula | [人头录音](https://www.bilibili.com/video/BV1QW411k7Aq) |
 | 快過期的桔仔醬 | [2001 王菲同名專輯_流年](https://www.bilibili.com/video/BV1d54y1U7wc) |
 
+
+### 科普
+
+| Poster                                           | Description        |
+| ------------------------------------------------ | ------------------ |
+| [毕导THU](https://space.bilibili.com/254463269)  | 清华高才x小学二年级数学高手 |
+| [老爸评测](https://space.bilibili.com/347667464) | DaddyLab 独立安全   |
 
 
 ### 学习计算机
