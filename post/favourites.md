@@ -92,7 +92,17 @@ description: 一直吃灰的收藏夹
     <a href="https://weibo.com/u/1860025965" target="_blank">涂涂子tutu</a><br />
     <a href="https://weibo.com/u/6495997029" target="_blank">蔡婷婷哇_</a><br />
     <a href="https://weibo.com/u/5721471804" target="_blank">王格格啊啊</a><br />
+    <a href="https://weibo.com/u/1741551022" target="_blank">Jinggg_j</a><br />
     <a href="https://weibo.com/u/1801509614" target="_blank">张烨佳Nina</a><br />
+  </pre>
+</details>
+
+<details>
+  <summary>摄影</summary>
+  <pre>
+    <a href="https://weibo.com/u/1687426162" target="_blank">烟波里的棠</a><br />    https://weibo.com/huxiaotang<br />
+    <a href="https://weibo.com/p/1005051646592141" target="_blank">overwater</a><br />   https://weibo.com/overwater<br />
+    <a href="https://weibo.com/p/1005051969023214" target="_blank">kelvin李</a><br />    https://weibo.com/kelvinleeintokyo<br />
   </pre>
 </details>
 
@@ -140,6 +150,7 @@ description: 一直吃灰的收藏夹
 | ------------------------------------------------ | ------------------ |
 | [毕导THU](https://space.bilibili.com/254463269)  | 清华高才x小学二年级数学高手 |
 | [老爸评测](https://space.bilibili.com/347667464) | DaddyLab 独立安全   |
+| [~~巫师财经~~](https://weibo.com/u/7293062537)   | 西瓜视频 微信公众号 |
 
 
 ### 学习计算机
@@ -173,17 +184,27 @@ description: 一直吃灰的收藏夹
 
 ### 唱歌
 
-| 主播                                                         | 房间号   |
+| 主播   | 房间号 |
 | ------------------------------------------------------------ | -------- |
 | [薛33](https://www.huya.com/352558)                          | 352558   |
 | [陈一发儿的YouTube](https://www.youtube.com/channel/UC7QVieoTCNwwW84G0bddXpA) | ~~斗鱼~~ |
+
+### ASMR
+
+| 主播 | 房间 |
+| -------------------------------------------- | ---------------------------------------------- |
+| [~~轩子巨2兔~~](https://www.huya.com/xuanzi) | 520521  [微博](https://weibo.com/u/1858002662) |
+| [夏茉](https://www.huya.com/wexiamo)         | 222471                                         |
+| [恩七不甜](https://www.huya.com/en777)       | 27727                                          |
+| [洛涵](https://www.huya.com/132855)          | 132855  [微博](https://weibo.com/u/3130738255) |
 
 ### 跳舞
 
 | 主播                                      | 房间号 |
 | ----------------------------------------- | ------ |
 | [~~苏月婵~~](https://www.huya.com/415626) | 415626 |
-| [零00](https://www.huya.com/51200)       | 51200  |
+| [零00](https://www.huya.com/51200)       | ~~51200~~  [奇领集美](https://www.huya.com/24634408)  |
+| [织梦-西子](https://www.huya.com/714220)  |        |
 
 
 
