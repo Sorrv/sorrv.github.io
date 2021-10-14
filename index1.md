@@ -39,10 +39,10 @@ You find this descriptive text in the `index.md` file, so you can _change_ it, o
   
   [Favor](./post/favourites.md)
   <dd>Jan 1, 2021</dd>
-  <dd>不注册账号收藏</dd>
+  <dd>收藏不注册</dd>
   [Beautiful verses](./post/juzi.md)
   <dd>Dec 14, 2020</dd>
-  <dd>优美的诗句~</dd>
+  <dd>好句</dd>
 
 * * *
 
