@@ -6,15 +6,17 @@ description: Spiritual life
 
 # 句子
 
-> 曾经有一个APP，叫一句
-> 
-> 然现已不知踪迹。
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5397396&auto=1&height=66"></iframe>
 
 ![Flowers](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/23af6927-c37a-49c0-97d7-55fc869b7222/d6v84br-773e9846-4ebf-471c-ac4f-62c91c6a789d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjNhZjY5MjctYzM3YS00OWMwLTk3ZDctNTVmYzg2OWI3MjIyXC9kNnY4NGJyLTc3M2U5ODQ2LTRlYmYtNDcxYy1hYzRmLTYyYzkxYzZhNzg5ZC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.EoikIrk7LZj66chHW79fSsCwCbt0UpkJgDDfQX5gxs4)
 
-一片冰心在玉壶。
+#### 忆江南/谢秋娘
+
+闲敲棋子落灯花。
 
 千树万树梨花开。
+
+一片冰心在玉壶。
 
 #### 青玉案·元夕
 
@@ -66,6 +68,14 @@ description: Spiritual life
 
 #### 蝶恋花
 
+#### 菩萨蛮
+
+微月照桐花，
+
+青琐对芳菲，
+
+灯在月胧明，
+
 #### 如梦令
 
 试问卷帘人，却道海棠依旧。知否，知否？应是绿肥红瘦。
@@ -88,13 +98,19 @@ description: Spiritual life
 
 云想衣裳花想容，春风拂槛露华浓。
 
+好将一点红炉雪，散作人间照夜灯。
+
 #### 侠客行
 
 醉里挑灯看剑，梦回吹角连营。
 
+歌咽水云凝静院，梦惊松雪落空岩。
+
 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。
 
 但愿人长久，千里共婵娟。
+
+夕阳揉碎春雪，我在江南撒欢。
 
 **古裝劇 天外飛仙**
 
@@ -103,7 +119,5 @@ description: Spiritual life
 皑如山上雪，皎若云间月。愿得一心人，白头不相离。
 
 纤云弄巧，银汉迢迢暗度。佳期如梦。两情若是久长时，又岂在朝朝暮暮。
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5397396&auto=1&height=66"></iframe>
 
 [back](../../)
