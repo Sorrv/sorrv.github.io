@@ -86,7 +86,7 @@ description: 一直吃灰的收藏夹
 <details>
   <summary>小姐姐</summary>
   <pre>
-    <a href="https://weibo.com/p/1005052331498495" target="_blank">半藏森林</a><br />   https://weibo.com/recklesss<br />
+    <a href="https://weibo.com/p/1005052331498495" target="_blank">半藏森林</a><br />    https://weibo.com/recklesss<br />
     <a href="https://weibo.com/u/1969308311" target="_blank">Duebass</a><br />
     <a href="https://weibo.com/u/2977062090" target="_blank">L一瓶紫薯牛奶</a><br />
     <a href="https://weibo.com/u/1860025965" target="_blank">涂涂子tutu</a><br />
@@ -101,7 +101,7 @@ description: 一直吃灰的收藏夹
   <summary>摄影</summary>
   <pre>
     <a href="https://weibo.com/u/1687426162" target="_blank">烟波里的棠</a><br />    https://weibo.com/huxiaotang<br />
-    <a href="https://weibo.com/p/1005051646592141" target="_blank">overwater</a><br />   https://weibo.com/overwater<br />
+    <a href="https://weibo.com/p/1005051646592141" target="_blank">overwater</a><br />    https://weibo.com/overwater<br />
     <a href="https://weibo.com/p/1005051969023214" target="_blank">kelvin李</a><br />    https://weibo.com/kelvinleeintokyo<br />
   </pre>
 </details>
@@ -215,8 +215,8 @@ description: 一直吃灰的收藏夹
 | [Lost](https://www.huya.com/836177)         | 836177 |
 | [与世无争傲寒](https://www.huya.com/143075)   | 143075 |
 | [飞鱼](https://www.huya.com/136811)         | 136811 |
-| [夕研](https://www.huya.com/924313)         | 924313 |
-| [南莫](https://www.huya.com/23916246)       | 23916246 |
+| [~~夕研~~ 双双](https://www.huya.com/924313) | 924313 |
+| [南莫](https://www.huya.com/713255)       | ~~23916246~~ 713255 |
 | [斗鱼 凌凝](https://www.douyu.com/1849364)   | 1849364 |
 
 ### 电视台
