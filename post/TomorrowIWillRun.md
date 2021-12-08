@@ -14,6 +14,9 @@ description: Healthy First
 
 因果推导出今晚我得早睡。
 
+![Some Versions](../pic/ShouldRunning.png)
+![Some Versions](../pic/PenisSize.jpeg)
+
 在初中的英语课本上有一个关于对生命中重要的存在的优先级排序开放性讨论：当时我的老师让我回答哪一个最重要——我说在我心目中健康是排在第一位的，TA很赞同。
 
 如今亲人因病去世，我再次回想到这个小片段——当我们身体良好时因其他事烦恼，当一次小感冒却头痛鼻塞流涕难熬。所以在发呆的契机中，我不禁陷入[哲学思考](https://book.douban.com/subject/25961458/)——究竟人这一生中弥足珍贵的到底是什么？
