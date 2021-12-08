@@ -14,7 +14,7 @@ description: Healthy First
 
 因果推导出今晚我得早睡。
 
-![Some Versions](../pic/ShouldRunning.png)
+![Some Versions](../pic/ShouldRunning.jpeg)
 ![Some Versions](../pic/PenisSize.jpeg)
 
 在初中的英语课本上有一个关于对生命中重要的存在的优先级排序开放性讨论：当时我的老师让我回答哪一个最重要——我说在我心目中健康是排在第一位的，TA很赞同。
