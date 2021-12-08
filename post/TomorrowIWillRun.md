@@ -6,7 +6,13 @@ description: Healthy First
 
 # 生命在于心脏运动🏃
 
-明天起，做个坚持跑步的人。
+<audio controls autoplay>
+  <source src="../audio/Ear.m4a" type="audio/mp4">
+Your browser does not support the audio element.
+</audio>
+
+从明天起，做一个Xìng福的人。
+早睡，早起，环游操场。
 
 直接原因：没有自信去办健身房VIP卡；
 
@@ -25,6 +31,8 @@ description: Healthy First
 
 底层人只能用易被替换的、没技术含量的技能谋生，中产阶级被更高级的收入陷阱迷惑，我一个normal无法逃脱这种宿命。
 
-(Wed, Dec 8)
+我只愿面朝大海，春暖花开～
+
+Last updated on December 8th at 10:37 p.m. (GMT +8)
 
 [back](../../)
