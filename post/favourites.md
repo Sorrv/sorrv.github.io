@@ -11,7 +11,7 @@ description: 一直吃灰的收藏夹
 [考据癖|好奇心|冷知识](http://localhost-8080.com/2014/11/mathematica-wolframalpha-logo-origami/)    ❤️    [Matrix67](http://www.matrix67.com/blog/archives/6231)<br />
 [Beyond the Void](https://byvoid.com/zht/)<br />
 [阮一峰](http://www.ruanyifeng.com/home.html)<br />
-[无辄的栈](https://www.imwzk.com/posts/2017-12-15-sobriety-is-a-tragedy/)<br />
+[无辄的栈](https://www.zackwu.com/posts/2017-12-15-sobriety-is-a-tragedy/)<br />
 [沈维燕的技术私房菜](https://www.yuque.com/shenweiyan/cookbook)<br />
 [GatesNotes](https://www.gatesnotes.com/)<br />
 
@@ -90,6 +90,7 @@ description: 一直吃灰的收藏夹
     <a href="https://weibo.com/u/1969308311" target="_blank">Duebass</a><br />
     <a href="https://weibo.com/u/2977062090" target="_blank">L一瓶紫薯牛奶</a><br />
     <a href="https://weibo.com/u/1860025965" target="_blank">涂涂子tutu</a><br />
+    <a href="https://weibo.com/u/5523370810" target="_blank">阿沁_Northman</a><br />
     <a href="https://weibo.com/u/6495997029" target="_blank">蔡婷婷哇_</a><br />
     <a href="https://weibo.com/u/5721471804" target="_blank">王格格啊啊</a><br />
     <a href="https://weibo.com/u/1741551022" target="_blank">Jinggg_j</a><br />
@@ -139,6 +140,8 @@ description: 一直吃灰的收藏夹
 
 | up主         | post                                                    |
 | ------------ | ------------------------------------------------------- |
+| 鬼斧神工119  | [[理性派HiFi]2022年耳机行业展望](https://www.bilibili.com/video/BV17u411U7x5) |
+| 科技大班     | [宝华韦健Formation Duo & KEF LS50 Wireless II 横评对比](https://www.bilibili.com/video/BV12L411u7ud) |
 | V12永远滴神  | [柏林之声](https://www.bilibili.com/video/BV1Di4y1t75s) |
 | titanformula | [人头录音](https://www.bilibili.com/video/BV1QW411k7Aq) |
 | 快過期的桔仔醬 | [2001 王菲同名專輯_流年](https://www.bilibili.com/video/BV1d54y1U7wc) |
