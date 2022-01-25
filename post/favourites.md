@@ -118,6 +118,14 @@ description: 一直吃灰的收藏夹
 | [一只小仙若](https://space.bilibili.com/16539048)            | Shake it                                                |
 | [**搬运2020深圳大湾区HAVAL**](https://www.bilibili.com/video/BV1Yv411r78a)     [美人YouTube](https://www.youtube.com/channel/UCh0nQAtmgmVfVYMMYNAalKQ) | 车展模特                                                |
 
+### CV
+
+| up             | work                                                         |
+| -------------- | ------------------------------------------------------------ |
+| 小汀菱         | [狸花：咩呀!唔出来!(萌声粤配)](https://www.bilibili.com/video/BV1tm4y1D7Hp) |
+| 调皮捣蛋小甜甜 | [屡教唔听](https://www.bilibili.com/video/BV1cf4y1b7SE)      |
+
+
 ### 摄影
 
 | up主                                                         | 作品     |
