@@ -11,7 +11,7 @@ description: 科普
 Your browser does not support the audio element.
 </audio>
 
-Was the weather forecaster wrong? Why didn't snow at your place?
+Was the weather forecaster wrong? Why it doesn't snow where your are?
 
 Actually the general public widely misunderstood the chance of rain, or the **Probability of Precipitation** (*PoP*).
 
@@ -22,7 +22,7 @@ So what does an 80% probability of precipitation mean?
 - There are other reviews that say there is an 80% chance of rain in the area.
 - Or 8 weather forecasters think it will rain and 2 others disagree.
 
-Which of perspective is right?
+Which point of view is right?
 
 ![from Unsplash](../pic/SnowUmbrella.jpg "unsplash.com/photos/SuJp8ZpkubI")
 
@@ -39,13 +39,13 @@ a 50% chance of rain tomorrow morning have many situations:
 
 50% = 100% × 50%
 
-50% = 90% × 55.5<sup>5</sup>%
+50% = 90% × 55.556%
 
 50% = 80% × 62.5%
 
-50% = 75% × 66.6<sup>6</sup>%
+50% = 75% × 66.667%
 
-50% = 60% × 83.3<sup>3</sup>%
+50% = 60% × 83.333%
 
 50% = 50% × 100%
 
@@ -67,3 +67,4 @@ Next time you see a 30% PoP, will you bring an umbrella before going out?
 
 * * *
 Last updated on Feb 7th at 02:14 p.m. (GMT +8)
+* * *
