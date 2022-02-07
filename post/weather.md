@@ -19,7 +19,6 @@ So what does an 80% probability of precipitation mean?
 
 - Some might take this to mean that it will rain about 80% of the time in a given forecast period.
 - Some would say that 80% of a given forecast area will be covered by precipitation.
-
 - There are other reviews that say there is an 80% chance of rain in the area.
 - Or 8 weather forecasters think it will rain and 2 others disagree.
 
@@ -40,13 +39,13 @@ a 50% chance of rain tomorrow morning have many situations:
 
 50% = 100% × 50%
 
-50% = 90% × 55.5^%
+50% = 90% × 55.5<sup>5</sup>%
 
 50% = 80% × 62.5%
 
-50% = 75% × 66.6^%
+50% = 75% × 66.6<sup>6</sup>%
 
-50% = 60% × 83.3^%
+50% = 60% × 83.3<sup>3</sup>%
 
 50% = 50% × 100%
 
@@ -61,6 +60,8 @@ Next time you see a 30% PoP, will you bring an umbrella before going out?
 [What does percent chance of rain mean?](https://sciencenotes.org/percent-chance-rain-mean/)
 
 [psychological basis of misunderstandings](http://depts.washington.edu/forecast/documents/Probability_of_Precipitation(2009).pdf)
+
+<hr />
 
 [Back to HomePage](../../)
 
