@@ -1,4 +1,15 @@
+---
+layout: default
+title: 天气预报不准?
+description: 科普
+---
+
 # How's the weather like for you there?
+
+<audio controls autoplay>
+  <source src="../audio/childish.m4a" type="audio/mp4">
+Your browser does not support the audio element.
+</audio>
 
 Was the weather forecaster wrong? Why didn't snow at your place?
 
@@ -14,10 +25,15 @@ So what does an 80% probability of precipitation mean?
 
 Which of perspective is right?
 
+![from Unsplash](../pic/SnowUmbrella.jpg "unsplash.com/photos/SuJp8ZpkubI")
+
 The answer is no one exactly correct. According to the Bureau of Meteorology's explaination, the PoP is predetermined by the **Confidence** percentage and the percentage of the **Area** with precipitation both.
 
-> PoP = Confidence • Area
+> PoP[^PoP] = C[^Confidence] • A[^Area]
 
+[^PoP]:Probability of Precipitation
+[^Confidence]:the Confidence percentage
+[^Area]:the percentage of the Area with precipitation
 ## Examples
 
 a 50% chance of rain tomorrow morning have many situations:
@@ -46,3 +62,7 @@ Next time you see a 30% PoP, will you bring an umbrella before going out?
 
 [psychological basis of misunderstandings](http://depts.washington.edu/forecast/documents/Probability_of_Precipitation(2009).pdf)
 
+[Back to HomePage](../../)
+
+* * *
+Last updated on Feb 7th at 02:14 p.m. (GMT +8)
