@@ -4,6 +4,8 @@ title: 天气预报不准?
 description: 科普
 ---
 
+Last updated on Feb 18th at 03:52 p.m. (GMT +8)
+* * *
 # How's the weather like for you there?
 
 <audio controls autoplay>
@@ -13,7 +15,7 @@ Your browser does not support the audio element.
 
 Was the weather forecaster wrong? Why it doesn't snow where your are?
 
-Actually the general public widely misunderstood the chance of rain, or the **Probability of Precipitation** (*PoP*).
+Actually the general public widely misunderstood the chance of rain, or the **Probability of Precipitation** (**PoP**).
 
 So what does an 80% probability of precipitation mean?
 
@@ -61,10 +63,11 @@ Next time you see a 30% PoP, will you bring an umbrella before going out?
 
 [psychological basis of misunderstandings](http://depts.washington.edu/forecast/documents/Probability_of_Precipitation(2009).pdf)
 
+## Further Watching
+
+**Forecasting Love and Weather** on [Netflix](https://www.netflix.com/title/81572781)
+**기상청 사람들: 사내연애 잔혹사 편** on [JTBC](https://tv.jtbc.joins.com/weatherpeople)
+
 <hr />
 
 [Back to HomePage](../../)
-
-* * *
-Last updated on Feb 7th at 02:14 p.m. (GMT +8)
-* * *
